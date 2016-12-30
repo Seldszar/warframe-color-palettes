@@ -1,0 +1,20 @@
+{
+  "name": "warframe-color-palettes",
+  "version": "1.0.0",
+  "description": "Color palettes available in Warframe",
+  "main": "dist/index.js",
+  "author": "Alexandre Breteau <contact@seldszar.fr>",
+  "license": "MIT",
+  "files": [
+    "dist/index.js",
+    "palettes",
+    "src"
+  ],
+  "scripts": {
+    "compile": "babel src --out-dir dist"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-env": "^1.1.4"
+  }
+}
