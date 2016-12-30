@@ -6,9 +6,9 @@
   "author": "Alexandre Breteau <contact@seldszar.fr>",
   "license": "MIT",
   "files": [
-    "dist/index.js",
-    "palettes",
+    "dist",
     "src"
+    "palettes",
   ],
   "scripts": {
     "compile": "babel src --out-dir dist"
