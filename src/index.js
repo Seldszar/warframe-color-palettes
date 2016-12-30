@@ -2,6 +2,7 @@ import classic from '../palettes/classic';
 import classicSatured from '../palettes/classic-satured';
 import corpus from '../palettes/corpus';
 import daybreak from '../palettes/daybreak';
+import dojo from '../palettes/dojo';
 import easter from '../palettes/easter';
 import eximus from '../palettes/eximus';
 import fire from '../palettes/fire';
@@ -21,6 +22,7 @@ import twilight from '../palettes/twilight';
 import valentine from '../palettes/valentine';
 
 export {
-  classic, classicSatured, corpus, daybreak, easter, eximus, fire, gamma, grineer, halloween, ice,
-  infested, lotus, orokin, redWhiteBlue, shamrock, smokeColors, storm, tenno, twilight, valentine,
+  classic, classicSatured, corpus, daybreak, dojo, easter, eximus, fire, gamma, grineer, halloween,
+  ice, infested, lotus, orokin, redWhiteBlue, shamrock, smokeColors, storm, tenno, twilight,
+  valentine,
 };

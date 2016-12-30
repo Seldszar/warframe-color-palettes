@@ -3,7 +3,7 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.valentine = exports.twilight = exports.tenno = exports.storm = exports.smokeColors = exports.shamrock = exports.redWhiteBlue = exports.orokin = exports.lotus = exports.infested = exports.ice = exports.halloween = exports.grineer = exports.gamma = exports.fire = exports.eximus = exports.easter = exports.daybreak = exports.corpus = exports.classicSatured = exports.classic = undefined;
+exports.valentine = exports.twilight = exports.tenno = exports.storm = exports.smokeColors = exports.shamrock = exports.redWhiteBlue = exports.orokin = exports.lotus = exports.infested = exports.ice = exports.halloween = exports.grineer = exports.gamma = exports.fire = exports.eximus = exports.easter = exports.dojo = exports.daybreak = exports.corpus = exports.classicSatured = exports.classic = undefined;
 
 var _classic = require('../palettes/classic');
 
@@ -20,6 +20,10 @@ var _corpus2 = _interopRequireDefault(_corpus);
 var _daybreak = require('../palettes/daybreak');
 
 var _daybreak2 = _interopRequireDefault(_daybreak);
+
+var _dojo = require('../palettes/dojo');
+
+var _dojo2 = _interopRequireDefault(_dojo);
 
 var _easter = require('../palettes/easter');
 
@@ -95,6 +99,7 @@ exports.classic = _classic2.default;
 exports.classicSatured = _classicSatured2.default;
 exports.corpus = _corpus2.default;
 exports.daybreak = _daybreak2.default;
+exports.dojo = _dojo2.default;
 exports.easter = _easter2.default;
 exports.eximus = _eximus2.default;
 exports.fire = _fire2.default;
