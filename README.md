@@ -7,13 +7,13 @@ This repository contains the color palettes available in the game.
 Install this package via NPM:
 
 ```bash
-$ npm install warframe-palettes
+$ npm install warframe-color-palettes
 ```
 
 You can also install via Bower:
 
 ```bash
-$ bower install warframe-palettes
+$ bower install warframe-color-palettes
 ```
 
 Now you can access to the palettes:
