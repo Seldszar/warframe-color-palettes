@@ -3,7 +3,7 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.valentine = exports.twilight = exports.tenno = exports.storm = exports.smokeColors = exports.shamrock = exports.redWhiteBlue = exports.orokin = exports.lotus = exports.infested = exports.ice = exports.halloween = exports.grineer = exports.gamma = exports.fire = exports.eximus = exports.easter = exports.dojo = exports.daybreak = exports.corpus = exports.classicSatured = exports.classic = undefined;
+exports.valentine = exports.twilight = exports.tenno = exports.storm = exports.smokeColors = exports.shamrock = exports.redWhiteBlue = exports.psiv = exports.orokin = exports.lotus = exports.kiteer = exports.jade = exports.infested = exports.ice = exports.halloween = exports.grineer = exports.gamma = exports.fire = exports.eximus = exports.easter = exports.dojo = exports.daybreak = exports.corpus = exports.classicSatured = exports.classic = undefined;
 
 var _classic = require('../palettes/classic.json');
 
@@ -57,6 +57,14 @@ var _infested = require('../palettes/infested.json');
 
 var _infested2 = _interopRequireDefault(_infested);
 
+var _jade = require('../palettes/jade.json');
+
+var _jade2 = _interopRequireDefault(_jade);
+
+var _kiteer = require('../palettes/kiteer.json');
+
+var _kiteer2 = _interopRequireDefault(_kiteer);
+
 var _lotus = require('../palettes/lotus.json');
 
 var _lotus2 = _interopRequireDefault(_lotus);
@@ -64,6 +72,10 @@ var _lotus2 = _interopRequireDefault(_lotus);
 var _orokin = require('../palettes/orokin.json');
 
 var _orokin2 = _interopRequireDefault(_orokin);
+
+var _psiv = require('../palettes/psiv.json');
+
+var _psiv2 = _interopRequireDefault(_psiv);
 
 var _redWhiteBlue = require('../palettes/red-white-blue.json');
 
@@ -108,8 +120,11 @@ exports.grineer = _grineer2.default;
 exports.halloween = _halloween2.default;
 exports.ice = _ice2.default;
 exports.infested = _infested2.default;
+exports.jade = _jade2.default;
+exports.kiteer = _kiteer2.default;
 exports.lotus = _lotus2.default;
 exports.orokin = _orokin2.default;
+exports.psiv = _psiv2.default;
 exports.redWhiteBlue = _redWhiteBlue2.default;
 exports.shamrock = _shamrock2.default;
 exports.smokeColors = _smokeColors2.default;
