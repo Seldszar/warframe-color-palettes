@@ -11,8 +11,11 @@ import grineer from '../palettes/grineer.json';
 import halloween from '../palettes/halloween.json';
 import ice from '../palettes/ice.json';
 import infested from '../palettes/infested.json';
+import jade from '../palettes/jade.json';
+import kiteer from '../palettes/kiteer.json';
 import lotus from '../palettes/lotus.json';
 import orokin from '../palettes/orokin.json';
+import psiv from '../palettes/psiv.json';
 import redWhiteBlue from '../palettes/red-white-blue.json';
 import shamrock from '../palettes/shamrock.json';
 import smokeColors from '../palettes/smoke-colors.json';
@@ -23,6 +26,6 @@ import valentine from '../palettes/valentine.json';
 
 export {
   classic, classicSatured, corpus, daybreak, dojo, easter, eximus, fire, gamma, grineer, halloween,
-  ice, infested, lotus, orokin, redWhiteBlue, shamrock, smokeColors, storm, tenno, twilight,
-  valentine,
+  ice, infested, jade, kiteer, lotus, orokin, psiv, redWhiteBlue, shamrock, smokeColors, storm,
+  tenno, twilight, valentine,
 };
