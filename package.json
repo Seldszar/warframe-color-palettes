@@ -1,23 +1,20 @@
 {
   "name": "warframe-color-palettes",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Color palettes available in Warframe",
   "main": "dist/index.js",
   "author": "Alexandre Breteau <contact@seldszar.fr>",
   "license": "MIT",
-  "files": [
-    "dist",
-    "palettes",
-    "src"
-  ],
   "scripts": {
-    "compile": "babel src --out-dir dist",
-    "test": "eslint ."
+    "compile": "cross-env NODE_ENV=production babel src --out-dir dist",
+    "test": "eslint src"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
     "babel-eslint": "^7.1.1",
     "babel-preset-env": "^1.1.4",
+    "babili": "^0.0.11",
+    "cross-env": "^3.1.4",
     "eslint": "^3.13.1",
     "eslint-config-airbnb-base": "^11.0.1",
     "eslint-plugin-import": "^2.2.0"
