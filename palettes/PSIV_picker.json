@@ -1,5 +1,8 @@
 {
-  "name": "PSIV",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/PSIV_picker.png",
+  "name": "/Lotus/Language/Items/PSIVColorPickerName",
+  "description": "/Lotus/Language/Items/PSIVColorPickerDesc",
+  "abbreviation": "/Lotus/Language/Items/PSIVColorPickerAbbrev",
   "colors": [
     "f8a6da",
     "f492d0",

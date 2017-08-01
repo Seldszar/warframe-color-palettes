@@ -1,5 +1,8 @@
 {
-  "name": "LOTUS",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Lotus_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerLotusName",
+  "description": "/Lotus/Language/Items/ColourPickerLotusDesc",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerLotusAbbrev",
   "colors": [
     "827dd3",
     "6b66c0",

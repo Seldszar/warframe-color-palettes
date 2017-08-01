@@ -1,9 +1,0 @@
-{
-  "name": "warframe-color-palettes",
-  "description": "Color palettes available in Warframe",
-  "main": "dist/index.js",
-  "authors": [
-    "Alexandre Breteau <contact@seldszar.fr>"
-  ],
-  "license": "MIT"
-}

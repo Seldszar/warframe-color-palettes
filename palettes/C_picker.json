@@ -1,5 +1,8 @@
 {
-  "name": "STORM",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/C_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerCName",
+  "description": "/Lotus/Language/Items/ColourPickerCDescription",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerCAbbrev",
   "colors": [
     "df4019",
     "e45b39",

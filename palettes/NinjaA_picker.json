@@ -1,5 +1,8 @@
 {
-  "name": "SMOKE COLORS",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/NinjaA_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerNinjaName",
+  "description": "/Lotus/Language/Items/ColourPickerADescription",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerNinjaName",
   "colors": [
     "dddede",
     "e0e2e2",

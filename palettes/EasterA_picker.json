@@ -1,5 +1,8 @@
 {
-  "name": "EASTER",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/EasterA_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerEasAName",
+  "description": "/Lotus/Language/Items/ColourPickerEasADescription",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerEasAAbbrev",
   "colors": [
     "cda75e",
     "d0af5f",

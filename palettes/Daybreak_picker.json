@@ -1,5 +1,8 @@
 {
-  "name": "DAYBREAK",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Daybreak_picker.png",
+  "name": "/Lotus/Language/Items/DaybreakColorPickerName",
+  "description": "/Lotus/Language/Items/DaybreakColorPickerDesc",
+  "abbreviation": "/Lotus/Language/Items/DaybreakColorPickerAbbrev",
   "colors": [
     "a0c6e8",
     "9bb7d9",

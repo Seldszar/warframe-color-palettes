@@ -1,5 +1,8 @@
 {
-  "name": "CLASSIC",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/A_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerAName",
+  "description": "/Lotus/Language/Items/ColourPickerADescription",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerAAbbrev",
   "colors": [
     "461011",
     "671718",

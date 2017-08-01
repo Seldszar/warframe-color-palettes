@@ -1,5 +1,8 @@
 {
-  "name": "HALLOWEEN",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Halloween_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerHalloweenName",
+  "description": "/Lotus/Language/Items/ColourPickerHalloweenDescription",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerHalloweenAbbrev",
   "colors": [
     "de0000",
     "c30000",

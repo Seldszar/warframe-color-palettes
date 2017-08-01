@@ -1,5 +1,8 @@
 {
-  "name": "GAMMA",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Gamma_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerGammaName",
+  "description": "/Lotus/Language/Items/ColourPickerGammaDesc",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerGrineerAAbbrev",
   "colors": [
     "3e1718",
     "5c2223",

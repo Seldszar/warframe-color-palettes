@@ -1,5 +1,8 @@
 {
-  "name": "CORPUS",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Corpus_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerCorpusAName",
+  "description": "/Lotus/Language/Items/ColourPickerCorpusADescription",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerCorpusAAbbrev",
   "colors": [
     "e2f4f7",
     "b2d4e2",

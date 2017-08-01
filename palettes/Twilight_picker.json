@@ -1,5 +1,8 @@
 {
-  "name": "TWILIGHT",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Twilight_picker.png",
+  "name": "/Lotus/Language/Items/TwilightColorPickerName",
+  "description": "/Lotus/Language/Items/TwilightColorPickerDesc",
+  "abbreviation": "/Lotus/Language/Items/TwilightColorPickerAbbrev",
   "colors": [
     "784712",
     "683b13",

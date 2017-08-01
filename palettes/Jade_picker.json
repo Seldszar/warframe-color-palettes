@@ -1,5 +1,8 @@
 {
-  "name": "JADE",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Jade_picker.png",
+  "name": "/Lotus/Language/Items/JadeColorPickerName",
+  "description": "/Lotus/Language/Items/JadeColorPickerDesc",
+  "abbreviation": "/Lotus/Language/Items/JadeColorPickerAbbrev",
   "colors": [
     "ffffff",
     "fcfdfc",

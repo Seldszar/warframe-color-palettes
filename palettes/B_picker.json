@@ -1,5 +1,8 @@
 {
-  "name": "CLASSIC SATURED",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/B_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerBName",
+  "description": "/Lotus/Language/Items/ColourPickerBDescription",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerBAbbrev",
   "colors": [
     "520406",
     "790507",

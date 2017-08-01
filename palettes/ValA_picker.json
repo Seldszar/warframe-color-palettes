@@ -1,5 +1,8 @@
 {
-  "name": "VALENTINE",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ValA_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerValAName",
+  "description": "/Lotus/Language/Items/ColourPickerValADescription",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerValAAbbrev",
   "colors": [
     "760303",
     "8b1717",

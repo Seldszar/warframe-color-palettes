@@ -1,5 +1,8 @@
 {
-  "name": "RED/WHITE/BLUE",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/RedWhiteBlue_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerRWBName",
+  "description": "/Lotus/Language/Items/ColourPickerRWBDescription",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerRWBAbbrev",
   "colors": [
     "e11115",
     "feffff",

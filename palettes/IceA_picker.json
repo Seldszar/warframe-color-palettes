@@ -1,5 +1,8 @@
 {
-  "name": "ICE",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/IceA_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerIceAName",
+  "description": "/Lotus/Language/Items/ColourPickerIceADescription",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerIceAAbbrev",
   "colors": [
     "78ffd4",
     "9bffe1",

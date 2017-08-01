@@ -1,5 +1,8 @@
 {
-  "name": "INFESTED",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Infested_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerInfestedAName",
+  "description": "/Lotus/Language/Items/ColourPickerInfestedADescription",
+  "abbreviation": "/Lotus/Language/Items/ColourPickerInfestedAAbbrev",
   "colors": [
     "1f8e00",
     "1b8600",
