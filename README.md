@@ -1,5 +1,7 @@
 # Warframe Color Palettes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Seldszar/warframe-color-palettes.svg)](https://greenkeeper.io/)
+
 This repository contains the color palettes available in the game.
 
 ## Usage
