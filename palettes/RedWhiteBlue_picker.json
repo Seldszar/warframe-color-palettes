@@ -2,7 +2,9 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/RedWhiteBlue_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerRWBName",
   "description": "/Lotus/Language/Items/ColourPickerRWBDescription",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerRWBAbbrev",
+  "options": {
+    "legacyGamma": true
+  },
   "colors": [
     "e11115",
     "feffff",

@@ -2,7 +2,9 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/French_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerBastilleName",
   "description": "/Lotus/Language/Items/ColourPickerBastilleDescription",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerBastilleAbbrev",
+  "options": {
+    "legacyGamma": true
+  },
   "colors": [
     "d92e2f",
     "df3330",

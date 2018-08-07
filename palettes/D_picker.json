@@ -1,7 +1,7 @@
 {
-  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/C_picker.png",
-  "name": "/Lotus/Language/Items/ColourPickerCName",
-  "description": "/Lotus/Language/Items/ColourPickerCDescription",
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/D_picker.png",
+  "name": "/Lotus/Language/Items/ColourPickerDName",
+  "description": "/Lotus/Language/Items/ColourPickerDDescription",
   "options": {
     "legacyGamma": true
   },

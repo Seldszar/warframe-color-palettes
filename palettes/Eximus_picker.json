@@ -2,7 +2,7 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Eximus_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerEximusName",
   "description": "/Lotus/Language/Items/ColourPickerEximusDesc",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerEximusAbbrev",
+  "options": {},
   "colors": [
     "697785",
     "5f6b79",

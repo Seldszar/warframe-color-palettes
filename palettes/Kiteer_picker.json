@@ -2,7 +2,7 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Kiteer_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerKiteerName",
   "description": "/Lotus/Language/Items/ColourPickerKiteerDescription",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerKiteerAbbrev",
+  "options": {},
   "colors": [
     "90ffdc",
     "81fad6",

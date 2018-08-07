@@ -2,7 +2,9 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/IceA_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerIceAName",
   "description": "/Lotus/Language/Items/ColourPickerIceADescription",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerIceAAbbrev",
+  "options": {
+    "legacyGamma": true
+  },
   "colors": [
     "78ffd4",
     "9bffe1",

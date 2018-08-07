@@ -2,7 +2,9 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Grineer_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerGrineerAName",
   "description": "/Lotus/Language/Items/ColourPickerGrineerADescription",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerGrineerAAbbrev",
+  "options": {
+    "legacyGamma": true
+  },
   "colors": [
     "ffa339",
     "ff982b",

@@ -2,7 +2,9 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Defaults_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerDefaultsName",
   "description": "/Lotus/Language/Items/ColourPickerDefaultsDescription",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerDefaultsAbbrev",
+  "options": {
+    "legacyGamma": true
+  },
   "colors": [
     "dccc9a",
     "83684f",

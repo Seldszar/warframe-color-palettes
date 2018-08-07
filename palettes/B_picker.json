@@ -2,7 +2,9 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/B_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerBName",
   "description": "/Lotus/Language/Items/ColourPickerBDescription",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerBAbbrev",
+  "options": {
+    "legacyGamma": true
+  },
   "colors": [
     "520406",
     "790507",

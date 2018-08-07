@@ -2,7 +2,7 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Twitch_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerTwitchName",
   "description": "/Lotus/Language/Items/ColourPickerTwitchDescription",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerTwitchAbbrev",
+  "options": {},
   "colors": [
     "f7f6fb",
     "f9f8fc",

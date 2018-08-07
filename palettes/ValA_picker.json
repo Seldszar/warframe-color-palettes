@@ -2,7 +2,9 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ValA_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerValAName",
   "description": "/Lotus/Language/Items/ColourPickerValADescription",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerValAAbbrev",
+  "options": {
+    "legacyGamma": true
+  },
   "colors": [
     "760303",
     "8b1717",

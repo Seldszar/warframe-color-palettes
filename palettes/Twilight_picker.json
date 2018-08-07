@@ -2,7 +2,9 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Twilight_picker.png",
   "name": "/Lotus/Language/Items/TwilightColorPickerName",
   "description": "/Lotus/Language/Items/TwilightColorPickerDesc",
-  "abbreviation": "/Lotus/Language/Items/TwilightColorPickerAbbrev",
+  "options": {
+    "legacyGamma": true
+  },
   "colors": [
     "784712",
     "683b13",

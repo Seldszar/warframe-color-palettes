@@ -2,7 +2,9 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/NinjaA_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerNinjaName",
   "description": "/Lotus/Language/Items/ColourPickerADescription",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerNinjaName",
+  "options": {
+    "legacyGamma": true
+  },
   "colors": [
     "dddede",
     "e0e2e2",

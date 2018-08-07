@@ -2,7 +2,9 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/FireA_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerFireAName",
   "description": "/Lotus/Language/Items/ColourPickerFireADescription",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerFireAAbbrev",
+  "options": {
+    "legacyGamma": true
+  },
   "colors": [
     "ffde93",
     "ffe3a4",

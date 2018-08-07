@@ -2,7 +2,7 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Dojo_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerDojoName",
   "description": "/Lotus/Language/Items/ColourPickerDojoDescription",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerDojoAbbrev",
+  "options": {},
   "colors": [
     "63779c",
     "6a7fa7",

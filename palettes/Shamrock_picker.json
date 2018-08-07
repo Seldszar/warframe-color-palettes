@@ -2,7 +2,9 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Shamrock_picker.png",
   "name": "/Lotus/Language/Items/ShamrockColourPickerName",
   "description": "/Lotus/Language/Items/ShamrockColorPickerDesc",
-  "abbreviation": "/Lotus/Language/Items/ShamrockColourPickerAbbrev",
+  "options": {
+    "legacyGamma": true
+  },
   "colors": [
     "ffd393",
     "fec673",

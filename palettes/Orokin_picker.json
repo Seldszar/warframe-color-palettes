@@ -2,7 +2,7 @@
   "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Orokin_picker.png",
   "name": "/Lotus/Language/Items/ColourPickerOrokinName",
   "description": "/Lotus/Language/Items/ColourPickerOrokinDesc",
-  "abbreviation": "/Lotus/Language/Items/ColourPickerOrokinAbbrev",
+  "options": {},
   "colors": [
     "605d55",
     "6a675d",
