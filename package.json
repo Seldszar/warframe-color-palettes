@@ -1,7 +1,6 @@
 {
   "name": "warframe-color-palettes",
-  "version": "2.1.0",
-  "description": "Collection of color palettes available in Warframe",
+  "description": "Provide all color palettes available in Warframe",
   "main": "lib/index.js",
   "author": "Alexandre Breteau <contact@seldszar.fr>",
   "license": "MIT"

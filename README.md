@@ -1,29 +1,30 @@
 # Warframe Color Palettes
 
-This repository contains the color palettes available in the game.
+Provide all color palettes available in Warframe.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Author](#author)
+- [License](#license)
+
+## Installation
+
+```bash
+npm install seldszar/warframe-color-palettes --save
+```
 
 ## Usage
 
-Install this package via NPM:
-
-```bash
-$ npm install warframe-color-palettes
-```
-
-You can also install via Yarn:
-
-```bash
-$ yarn add warframe-color-palettes
-```
-
-Now you can access to the palettes:
-
 ```javascript
-import palettes from 'warframe-color-palettes';
+const palettes = require('warframe-color-palettes');
 ```
+
+## Author
+
+Alexandre Breteau - [@0xSeldszar](https://twitter.com/0xSeldszar)
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2016-2017 Alexandre Breteau
+MIT © [Alexandre Breteau](https://seldszar.fr)
